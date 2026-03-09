@@ -184,7 +184,7 @@ body {
 }
 
 .accordion-item input[type="radio"]:checked ~ .preview {
-  max-height: 400px;
+  max-height: none;
   opacity: 1;
   margin: 15px 0;
   padding: 15px;
